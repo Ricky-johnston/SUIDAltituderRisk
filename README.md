@@ -1,4 +1,4 @@
-# SUIDAltituderRisk
+# SUIDAltitudeRisk
 This is the code repo for the following paper
 
 Altitude and risk of sudden unexpected infant death in the United States. Sci Rep 11, 2161 (2021). 
