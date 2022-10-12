@@ -1,5 +1,5 @@
 # SUIDAltitudeRisk
-This is the code repo for the following paper
+This is the code repo for the following paper. A not about the data.  The data is only avilable via a special request from the cdc since it includes FIPS codes (County and state) of birth.  Without a special request you will not be able to replicate this paper.
 
 Altitude and risk of sudden unexpected infant death in the United States. Sci Rep 11, 2161 (2021). 
 Johnston, R., Yan, X., Anderson, T.M. et al. https://doi.org/10.1038/s41598-021-81613-w
